@@ -1,3 +1,3 @@
-Here is the github pages link to visit the website -  https://xafnaanx.github.io/Tailwind-Project-1/
+Here is the github pages link to visit the website -  https://xafnaanx.github.io/Landing-Page-using-Tailwind-Project-1/
 
 This project is a personal learning project of Tailwind CSS, a utility-first framework for rapidly building custom user interfaces. The project involves coding a responsive website that adapts to different screen sizes and devices, using Tailwind CSS classes and utilities. The aim of this project is to grasp the core concepts of Tailwind CSS, such as breakpoints, layout, typography, colors, spacing, flexbox, grid, and customizing the configuration. The website will feature some common components and patterns that can be easily created with Tailwind CSS, such as navigation bars, forms, buttons, and more.
